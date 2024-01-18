@@ -1,0 +1,12 @@
+[submodule "submodules/Product_Service"]
+	path = submodules/Product_Service
+	url = https://github.com/JasmeetSingh2397/ProductService_Proxy.git
+[submodule "submodules/User_Service"]
+	path = submodules/User_Service
+	url = https://github.com/JasmeetSingh2397/userService.git
+[submodule "submodules/Payment_Service"]
+	path = submodules/Payment_Service
+	url = https://github.com/JasmeetSingh2397/PaymentService.git
+[submodule "submodules/Order_Service"]
+	path = submodules/Order_Service
+	url = https://github.com/JasmeetSingh2397/OrderService.git
